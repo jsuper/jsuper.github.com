@@ -5,8 +5,8 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Explorer of Programming</title>
-<!-- <link href="http://mark.reid.name/iem/atom.xml" rel="self"/>
- <link href="http://mark.reid.name/iem/"/>-->
+ <link href="http://jsuper.github.io/blog/atom.xml" rel="self"/>
+ <link href="http://jsuper.github.io/blog/"/>-->
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>http://jsuper.github.com/blog</id>
  <author>
