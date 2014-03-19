@@ -5,7 +5,7 @@ title: Home
 section: Home
 ---
 
-<img class='inset right' src='/images/tangling.png' title='Tang Ling' alt='Photo of Mark Reid drinking a coffee' width='120px' />
+<img class='inset right' src='/images/tangling.png' title='Tang Ling' alt='tony avart' width='120px' />
 
 Welcome
 =======
@@ -21,7 +21,7 @@ Research
 +-- {.section}
 Blogs
 =====
-目前正在维护的博客叫 _[Programming Explorer](/blog)_ 主要记录我在计算机编程领域的一些心得和体会。最新的文章包括:
+目前正在维护的博客叫 _[{{ site.blog.name }}](/blog)_ 主要记录我在计算机编程领域的一些心得和体会。最新的文章包括:
 {% for post in site.categories.blog limit:3 %}
 <ul class="compact recent">
 <li>

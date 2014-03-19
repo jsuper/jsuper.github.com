@@ -13,4 +13,12 @@ maruku:
     png_dir    : images/latex/
     png_url    : /images/latex/
 
+
+# site related
+blog:
+    name    : Software Artisan
+    description :  A programmer's thought
+
+author      : Tang Ling
+domain      : http://jsuper.github.io
     

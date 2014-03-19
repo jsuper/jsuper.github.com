@@ -6,7 +6,7 @@ layout: blog
 
 ---
 
-About Explorer of Programming
+About {{ site.blog.name }}
 ===========================
 目前正在紧张的撰写中......
 
