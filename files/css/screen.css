@@ -512,3 +512,11 @@ span.maruku-inline { }
 img.maruku-png { }
 /* @end */
 
+/* org-mode source backgroud*/
+pre.src {
+    background-color:#252b2b;
+    color: whitesmoke;
+}
+pre.src:hover:before {
+    color:black;
+}
